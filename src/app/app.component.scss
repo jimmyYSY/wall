@@ -1,0 +1,31 @@
+// component css goes here
+.o-div {
+    position: fixed;
+    width: 1000px;
+    height: 1000px;
+}
+
+.circular {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background: #99D265;
+    border-radius: 50%;
+    &::after {
+        display: block;
+        position: absolute;
+        margin: auto;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        content: " ";
+        width: 10px;
+        height: 10px;
+        background: #000000;
+        border-radius: 50%;
+    }
+}
+
+.wallShow {
+   border: 2px solid #000000;
+}
