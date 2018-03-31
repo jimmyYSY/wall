@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
@@ -26,7 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# wall
-wall 项目思路来自于某公司前端面试题，题中并没有注明使用技术，本解决方案中是用的是angular4.X 来进行解决。
->>>>>>> 4c84f8615143d03a0d4775a1545df32cff1cdd3c
